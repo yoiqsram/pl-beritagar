@@ -1,0 +1,579 @@
+Kode Prov,Sektor,Lapangan Usaha,Kode Lapangan Usaha,Nama Lapangan Usaha,PDRB ADHB
+11,Pertanian,1,A,"Pertanian, Kehutanan, dan Perikanan/Agriculture, Forestry and Fishing",43404000000000
+11,Industri,2,B,Pertambangan dan Penggalian/Mining and Quarrying,6798000000000
+11,Industri,3,C,Industri Pengolahan/Manufacturing,7533000000000
+11,Industri,4,D,Pengadaan Listrik dan Gas/Electricity and Gas,193000000000
+11,Industri,5,E,"Pengadaan Air, Pengelolaan Sampah, Limbah dan Daur Ulang/Water supply, Sewerage, Waste",63000000000
+11,Industri,6,F,Konstruksi/Construction,13768000000000
+11,Industri,7,G,Perdagangan Besar dan Eceran; Reparasi Mobil dan Sepeda Motor/Wholesale and Retail Trade;,23841000000000
+11,Industri,8,H,Transportasi dan Pergudangan/Transportation and Storage,10190000000000
+11,Industri,9,I,Penyediaan Akomodasi dan Makan Minum/Accommodation and Food Service Activities,2224000000000
+11,Industri,10,J,Informasi dan Komunikasi/Information and Communication,4354000000000
+11,Jasa,11,K,Jasa Keuangan dan Asuransi/Financial and Insurance Activities,2934000000000
+11,Jasa,12,L,Real Estat/Real Estate Activities,5973000000000
+11,Jasa,13,"M,N",Jasa Perusahaan/Business Activities,904000000000
+11,Jasa,14,O,"Administrasi Pemerintahan, Pertahanan dan Jaminan Sosial Wajib/Public Administration and",14628000000000
+11,Jasa,15,P,Jasa Pendidikan/Education,3787000000000
+11,Jasa,16,Q,Jasa Kesehatan dan Kegiatan Sosial/Human Health and Social Work Activities,3855000000000
+11,Jasa,17,"R,S,T,U",Jasa lainnya/Other Services Activities,2034000000000
+12,Pertanian,1,A,"Pertanian, Kehutanan, dan Perikanan/Agriculture, Forestry and Fishing",146366000000000
+12,Industri,2,B,Pertambangan dan Penggalian/Mining and Quarrying,8870000000000
+12,Industri,3,C,Industri Pengolahan/Manufacturing,138824000000000
+12,Industri,4,D,Pengadaan Listrik dan Gas/Electricity and Gas,788000000000
+12,Industri,5,E,"Pengadaan Air, Pengelolaan Sampah, Limbah dan Daur Ulang/Water supply, Sewerage, Waste",767000000000
+12,Industri,6,F,Konstruksi/Construction,92590000000000
+12,Industri,7,G,Perdagangan Besar dan Eceran; Reparasi Mobil dan Sepeda Motor/Wholesale and Retail Trade;,122585000000000
+12,Industri,8,H,Transportasi dan Pergudangan/Transportation and Storage,34277000000000
+12,Industri,9,I,Penyediaan Akomodasi dan Makan Minum/Accommodation and Food Service Activities,16330000000000
+12,Industri,10,J,Informasi dan Komunikasi/Information and Communication,13583000000000
+12,Jasa,11,K,Jasa Keuangan dan Asuransi/Financial and Insurance Activities,21729000000000
+12,Jasa,12,L,Real Estat/Real Estate Activities,33387000000000
+12,Jasa,13,"M,N",Jasa Perusahaan/Business Activities,7090000000000
+12,Jasa,14,O,"Administrasi Pemerintahan, Pertahanan dan Jaminan Sosial Wajib/Public Administration and",24024000000000
+12,Jasa,15,P,Jasa Pendidikan/Education,12443000000000
+12,Jasa,16,Q,Jasa Kesehatan dan Kegiatan Sosial/Human Health and Social Work Activities,6454000000000
+12,Jasa,17,"R,S,T,U",Jasa lainnya/Other Services Activities,3963000000000
+13,Pertanian,1,A,"Pertanian, Kehutanan, dan Perikanan/Agriculture, Forestry and Fishing",50542000000000
+13,Industri,2,B,Pertambangan dan Penggalian/Mining and Quarrying,9133000000000
+13,Industri,3,C,Industri Pengolahan/Manufacturing,20835000000000
+13,Industri,4,D,Pengadaan Listrik dan Gas/Electricity and Gas,240000000000
+13,Industri,5,E,"Pengadaan Air, Pengelolaan Sampah, Limbah dan Daur Ulang/Water supply, Sewerage, Waste",197000000000
+13,Industri,6,F,Konstruksi/Construction,20009000000000
+13,Industri,7,G,Perdagangan Besar dan Eceran; Reparasi Mobil dan Sepeda Motor/Wholesale and Retail Trade;,32291000000000
+13,Industri,8,H,Transportasi dan Pergudangan/Transportation and Storage,27131000000000
+13,Industri,9,I,Penyediaan Akomodasi dan Makan Minum/Accommodation and Food Service Activities,2907000000000
+13,Industri,10,J,Informasi dan Komunikasi/Information and Communication,11331000000000
+13,Jasa,11,K,Jasa Keuangan dan Asuransi/Financial and Insurance Activities,6628000000000
+13,Jasa,12,L,Real Estat/Real Estate Activities,4219000000000
+13,Jasa,13,"M,N",Jasa Perusahaan/Business Activities,923000000000
+13,Jasa,14,O,"Administrasi Pemerintahan, Pertahanan dan Jaminan Sosial Wajib/Public Administration and",12544000000000
+13,Jasa,15,P,Jasa Pendidikan/Education,8855000000000
+13,Jasa,16,Q,Jasa Kesehatan dan Kegiatan Sosial/Human Health and Social Work Activities,2857000000000
+13,Jasa,17,"R,S,T,U",Jasa lainnya/Other Services Activities,3945000000000
+14,Pertanian,1,A,"Pertanian, Kehutanan, dan Perikanan/Agriculture, Forestry and Fishing",166772000000000
+14,Industri,2,B,Pertambangan dan Penggalian/Mining and Quarrying,182968000000000
+14,Industri,3,C,Industri Pengolahan/Manufacturing,178589000000000
+14,Industri,4,D,Pengadaan Listrik dan Gas/Electricity and Gas,444000000000
+14,Industri,5,E,"Pengadaan Air, Pengelolaan Sampah, Limbah dan Daur Ulang/Water supply, Sewerage, Waste",81000000000
+14,Industri,6,F,Konstruksi/Construction,61697000000000
+14,Industri,7,G,Perdagangan Besar dan Eceran; Reparasi Mobil dan Sepeda Motor/Wholesale and Retail Trade;,69034000000000
+14,Industri,8,H,Transportasi dan Pergudangan/Transportation and Storage,6039000000000
+14,Industri,9,I,Penyediaan Akomodasi dan Makan Minum/Accommodation and Food Service Activities,3816000000000
+14,Industri,10,J,Informasi dan Komunikasi/Information and Communication,4753000000000
+14,Jasa,11,K,Jasa Keuangan dan Asuransi/Financial and Insurance Activities,6254000000000
+14,Jasa,12,L,Real Estat/Real Estate Activities,6085000000000
+14,Jasa,13,"M,N",Jasa Perusahaan/Business Activities,38000000000
+14,Jasa,14,O,"Administrasi Pemerintahan, Pertahanan dan Jaminan Sosial Wajib/Public Administration and",10665000000000
+14,Jasa,15,P,Jasa Pendidikan/Education,3648000000000
+14,Jasa,16,Q,Jasa Kesehatan dan Kegiatan Sosial/Human Health and Social Work Activities,1315000000000
+14,Jasa,17,"R,S,T,U",Jasa lainnya/Other Services Activities,3480000000000
+15,Pertanian,1,A,"Pertanian, Kehutanan, dan Perikanan/Agriculture, Forestry and Fishing",56199000000000
+15,Industri,2,B,Pertambangan dan Penggalian/Mining and Quarrying,33742000000000
+15,Industri,3,C,Industri Pengolahan/Manufacturing,19639000000000
+15,Industri,4,D,Pengadaan Listrik dan Gas/Electricity and Gas,121000000000
+15,Industri,5,E,"Pengadaan Air, Pengelolaan Sampah, Limbah dan Daur Ulang/Water supply, Sewerage, Waste",265000000000
+15,Industri,6,F,Konstruksi/Construction,13308000000000
+15,Industri,7,G,Perdagangan Besar dan Eceran; Reparasi Mobil dan Sepeda Motor/Wholesale and Retail Trade;,23165000000000
+15,Industri,8,H,Transportasi dan Pergudangan/Transportation and Storage,6231000000000
+15,Industri,9,I,Penyediaan Akomodasi dan Makan Minum/Accommodation and Food Service Activities,2294000000000
+15,Industri,10,J,Informasi dan Komunikasi/Information and Communication,7394000000000
+15,Jasa,11,K,Jasa Keuangan dan Asuransi/Financial and Insurance Activities,4676000000000
+15,Jasa,12,L,Real Estat/Real Estate Activities,2969000000000
+15,Jasa,13,"M,N",Jasa Perusahaan/Business Activities,2297000000000
+15,Jasa,14,O,"Administrasi Pemerintahan, Pertahanan dan Jaminan Sosial Wajib/Public Administration and",8563000000000
+15,Jasa,15,P,Jasa Pendidikan/Education,6309000000000
+15,Jasa,16,Q,Jasa Kesehatan dan Kegiatan Sosial/Human Health and Social Work Activities,2092000000000
+15,Jasa,17,"R,S,T,U",Jasa lainnya/Other Services Activities,1835000000000
+16,Pertanian,1,A,"Pertanian, Kehutanan, dan Perikanan/Agriculture, Forestry and Fishing",60862000000000
+16,Industri,2,B,Pertambangan dan Penggalian/Mining and Quarrying,73245000000000
+16,Industri,3,C,Industri Pengolahan/Manufacturing,74900000000000
+16,Industri,4,D,Pengadaan Listrik dan Gas/Electricity and Gas,493000000000
+16,Industri,5,E,"Pengadaan Air, Pengelolaan Sampah, Limbah dan Daur Ulang/Water supply, Sewerage, Waste",445000000000
+16,Industri,6,F,Konstruksi/Construction,50683000000000
+16,Industri,7,G,Perdagangan Besar dan Eceran; Reparasi Mobil dan Sepeda Motor/Wholesale and Retail Trade;,48532000000000
+16,Industri,8,H,Transportasi dan Pergudangan/Transportation and Storage,8855000000000
+16,Industri,9,I,Penyediaan Akomodasi dan Makan Minum/Accommodation and Food Service Activities,6263000000000
+16,Industri,10,J,Informasi dan Komunikasi/Information and Communication,10628000000000
+16,Jasa,11,K,Jasa Keuangan dan Asuransi/Financial and Insurance Activities,10082000000000
+16,Jasa,12,L,Real Estat/Real Estate Activities,11597000000000
+16,Jasa,13,"M,N",Jasa Perusahaan/Business Activities,460000000000
+16,Jasa,14,O,"Administrasi Pemerintahan, Pertahanan dan Jaminan Sosial Wajib/Public Administration and",12091000000000
+16,Jasa,15,P,Jasa Pendidikan/Education,9463000000000
+16,Jasa,16,Q,Jasa Kesehatan dan Kegiatan Sosial/Human Health and Social Work Activities,2366000000000
+16,Jasa,17,"R,S,T,U",Jasa lainnya/Other Services Activities,2795000000000
+17,Pertanian,1,A,"Pertanian, Kehutanan, dan Perikanan/Agriculture, Forestry and Fishing",17730000000000
+17,Industri,2,B,Pertambangan dan Penggalian/Mining and Quarrying,2157000000000
+17,Industri,3,C,Industri Pengolahan/Manufacturing,3741000000000
+17,Industri,4,D,Pengadaan Listrik dan Gas/Electricity and Gas,53000000000
+17,Industri,5,E,"Pengadaan Air, Pengelolaan Sampah, Limbah dan Daur Ulang/Water supply, Sewerage, Waste",118000000000
+17,Industri,6,F,Konstruksi/Construction,3044000000000
+17,Industri,7,G,Perdagangan Besar dan Eceran; Reparasi Mobil dan Sepeda Motor/Wholesale and Retail Trade;,8699000000000
+17,Industri,8,H,Transportasi dan Pergudangan/Transportation and Storage,4869000000000
+17,Industri,9,I,Penyediaan Akomodasi dan Makan Minum/Accommodation and Food Service Activities,1019000000000
+17,Industri,10,J,Informasi dan Komunikasi/Information and Communication,2159000000000
+17,Jasa,11,K,Jasa Keuangan dan Asuransi/Financial and Insurance Activities,2031000000000
+17,Jasa,12,L,Real Estat/Real Estate Activities,2386000000000
+17,Jasa,13,"M,N",Jasa Perusahaan/Business Activities,1342000000000
+17,Jasa,14,O,"Administrasi Pemerintahan, Pertahanan dan Jaminan Sosial Wajib/Public Administration and",5966000000000
+17,Jasa,15,P,Jasa Pendidikan/Education,3867000000000
+17,Jasa,16,Q,Jasa Kesehatan dan Kegiatan Sosial/Human Health and Social Work Activities,1003000000000
+17,Jasa,17,"R,S,T,U",Jasa lainnya/Other Services Activities,492000000000
+18,Pertanian,1,A,"Pertanian, Kehutanan, dan Perikanan/Agriculture, Forestry and Fishing",93767000000000
+18,Industri,2,B,Pertambangan dan Penggalian/Mining and Quarrying,17325000000000
+18,Industri,3,C,Industri Pengolahan/Manufacturing,58322000000000
+18,Industri,4,D,Pengadaan Listrik dan Gas/Electricity and Gas,485000000000
+18,Industri,5,E,"Pengadaan Air, Pengelolaan Sampah, Limbah dan Daur Ulang/Water supply, Sewerage, Waste",326000000000
+18,Industri,6,F,Konstruksi/Construction,28636000000000
+18,Industri,7,G,Perdagangan Besar dan Eceran; Reparasi Mobil dan Sepeda Motor/Wholesale and Retail Trade;,35214000000000
+18,Industri,8,H,Transportasi dan Pergudangan/Transportation and Storage,16182000000000
+18,Industri,9,I,Penyediaan Akomodasi dan Makan Minum/Accommodation and Food Service Activities,4748000000000
+18,Industri,10,J,Informasi dan Komunikasi/Information and Communication,12020000000000
+18,Jasa,11,K,Jasa Keuangan dan Asuransi/Financial and Insurance Activities,6759000000000
+18,Jasa,12,L,Real Estat/Real Estate Activities,9182000000000
+18,Jasa,13,"M,N",Jasa Perusahaan/Business Activities,482000000000
+18,Jasa,14,O,"Administrasi Pemerintahan, Pertahanan dan Jaminan Sosial Wajib/Public Administration and",10760000000000
+18,Jasa,15,P,Jasa Pendidikan/Education,8564000000000
+18,Jasa,16,Q,Jasa Kesehatan dan Kegiatan Sosial/Human Health and Social Work Activities,2912000000000
+18,Jasa,17,"R,S,T,U",Jasa lainnya/Other Services Activities,2768000000000
+19,Pertanian,1,A,"Pertanian, Kehutanan, dan Perikanan/Agriculture, Forestry and Fishing",13146000000000
+19,Industri,2,B,Pertambangan dan Penggalian/Mining and Quarrying,8179000000000
+19,Industri,3,C,Industri Pengolahan/Manufacturing,14276000000000
+19,Industri,4,D,Pengadaan Listrik dan Gas/Electricity and Gas,79000000000
+19,Industri,5,E,"Pengadaan Air, Pengelolaan Sampah, Limbah dan Daur Ulang/Water supply, Sewerage, Waste",15000000000
+19,Industri,6,F,Konstruksi/Construction,6381000000000
+19,Industri,7,G,Perdagangan Besar dan Eceran; Reparasi Mobil dan Sepeda Motor/Wholesale and Retail Trade;,10891000000000
+19,Industri,8,H,Transportasi dan Pergudangan/Transportation and Storage,2900000000000
+19,Industri,9,I,Penyediaan Akomodasi dan Makan Minum/Accommodation and Food Service Activities,1736000000000
+19,Industri,10,J,Informasi dan Komunikasi/Information and Communication,1135000000000
+19,Jasa,11,K,Jasa Keuangan dan Asuransi/Financial and Insurance Activities,1281000000000
+19,Jasa,12,L,Real Estat/Real Estate Activities,2284000000000
+19,Jasa,13,"M,N",Jasa Perusahaan/Business Activities,197000000000
+19,Jasa,14,O,"Administrasi Pemerintahan, Pertahanan dan Jaminan Sosial Wajib/Public Administration and",4116000000000
+19,Jasa,15,P,Jasa Pendidikan/Education,1962000000000
+19,Jasa,16,Q,Jasa Kesehatan dan Kegiatan Sosial/Human Health and Social Work Activities,846000000000
+19,Jasa,17,"R,S,T,U",Jasa lainnya/Other Services Activities,549000000000
+21,Pertanian,1,A,"Pertanian, Kehutanan, dan Perikanan/Agriculture, Forestry and Fishing",7941000000000
+21,Industri,2,B,Pertambangan dan Penggalian/Mining and Quarrying,33210000000000
+21,Industri,3,C,Industri Pengolahan/Manufacturing,84435000000000
+21,Industri,4,D,Pengadaan Listrik dan Gas/Electricity and Gas,2690000000000
+21,Industri,5,E,"Pengadaan Air, Pengelolaan Sampah, Limbah dan Daur Ulang/Water supply, Sewerage, Waste",284000000000
+21,Industri,6,F,Konstruksi/Construction,41409000000000
+21,Industri,7,G,Perdagangan Besar dan Eceran; Reparasi Mobil dan Sepeda Motor/Wholesale and Retail Trade;,20233000000000
+21,Industri,8,H,Transportasi dan Pergudangan/Transportation and Storage,7507000000000
+21,Industri,9,I,Penyediaan Akomodasi dan Makan Minum/Accommodation and Food Service Activities,5061000000000
+21,Industri,10,J,Informasi dan Komunikasi/Information and Communication,4576000000000
+21,Jasa,11,K,Jasa Keuangan dan Asuransi/Financial and Insurance Activities,6270000000000
+21,Jasa,12,L,Real Estat/Real Estate Activities,3519000000000
+21,Jasa,13,"M,N",Jasa Perusahaan/Business Activities,12000000000
+21,Jasa,14,O,"Administrasi Pemerintahan, Pertahanan dan Jaminan Sosial Wajib/Public Administration and",5974000000000
+21,Jasa,15,P,Jasa Pendidikan/Education,3428000000000
+21,Jasa,16,Q,Jasa Kesehatan dan Kegiatan Sosial/Human Health and Social Work Activities,2119000000000
+21,Jasa,17,"R,S,T,U",Jasa lainnya/Other Services Activities,1075000000000
+31,Pertanian,1,A,"Pertanian, Kehutanan, dan Perikanan/Agriculture, Forestry and Fishing",2061000000000
+31,Industri,2,B,Pertambangan dan Penggalian/Mining and Quarrying,5746000000000
+31,Industri,3,C,Industri Pengolahan/Manufacturing,323932000000000
+31,Industri,4,D,Pengadaan Listrik dan Gas/Electricity and Gas,7449000000000
+31,Industri,5,E,"Pengadaan Air, Pengelolaan Sampah, Limbah dan Daur Ulang/Water supply, Sewerage, Waste",838000000000
+31,Industri,6,F,Konstruksi/Construction,308837000000000
+31,Industri,7,G,Perdagangan Besar dan Eceran; Reparasi Mobil dan Sepeda Motor/Wholesale and Retail Trade;,408987000000000
+31,Industri,8,H,Transportasi dan Pergudangan/Transportation and Storage,85669000000000
+31,Industri,9,I,Penyediaan Akomodasi dan Makan Minum/Accommodation and Food Service Activities,117178000000000
+31,Industri,10,J,Informasi dan Komunikasi/Information and Communication,181831000000000
+31,Jasa,11,K,Jasa Keuangan dan Asuransi/Financial and Insurance Activities,248213000000000
+31,Jasa,12,L,Real Estat/Real Estate Activities,147629000000000
+31,Jasa,13,"M,N",Jasa Perusahaan/Business Activities,183377000000000
+31,Jasa,14,O,"Administrasi Pemerintahan, Pertahanan dan Jaminan Sosial Wajib/Public Administration and",125292000000000
+31,Jasa,15,P,Jasa Pendidikan/Education,131359000000000
+31,Jasa,16,Q,Jasa Kesehatan dan Kegiatan Sosial/Human Health and Social Work Activities,40465000000000
+31,Jasa,17,"R,S,T,U",Jasa lainnya/Other Services Activities,91509000000000
+32,Pertanian,1,A,"Pertanian, Kehutanan, dan Perikanan/Agriculture, Forestry and Fishing",153693000000000
+32,Industri,2,B,Pertambangan dan Penggalian/Mining and Quarrying,25482000000000
+32,Industri,3,C,Industri Pengolahan/Manufacturing,755387000000000
+32,Industri,4,D,Pengadaan Listrik dan Gas/Electricity and Gas,10855000000000
+32,Industri,5,E,"Pengadaan Air, Pengelolaan Sampah, Limbah dan Daur Ulang/Water supply, Sewerage, Waste",1588000000000
+32,Industri,6,F,Konstruksi/Construction,147555000000000
+32,Industri,7,G,Perdagangan Besar dan Eceran; Reparasi Mobil dan Sepeda Motor/Wholesale and Retail Trade;,269778000000000
+32,Industri,8,H,Transportasi dan Pergudangan/Transportation and Storage,103491000000000
+32,Industri,9,I,Penyediaan Akomodasi dan Makan Minum/Accommodation and Food Service Activities,48395000000000
+32,Industri,10,J,Informasi dan Komunikasi/Information and Communication,51845000000000
+32,Jasa,11,K,Jasa Keuangan dan Asuransi/Financial and Insurance Activities,50121000000000
+32,Jasa,12,L,Real Estat/Real Estate Activities,18659000000000
+32,Jasa,13,"M,N",Jasa Perusahaan/Business Activities,7339000000000
+32,Jasa,14,O,"Administrasi Pemerintahan, Pertahanan dan Jaminan Sosial Wajib/Public Administration and",40220000000000
+32,Jasa,15,P,Jasa Pendidikan/Education,51394000000000
+32,Jasa,16,Q,Jasa Kesehatan dan Kegiatan Sosial/Human Health and Social Work Activities,13473000000000
+32,Jasa,17,"R,S,T,U",Jasa lainnya/Other Services Activities,36816000000000
+33,Pertanian,1,A,"Pertanian, Kehutanan, dan Perikanan/Agriculture, Forestry and Fishing",167247000000000
+33,Industri,2,B,Pertambangan dan Penggalian/Mining and Quarrying,30023000000000
+33,Industri,3,C,Industri Pengolahan/Manufacturing,414989000000000
+33,Industri,4,D,Pengadaan Listrik dan Gas/Electricity and Gas,1128000000000
+33,Industri,5,E,"Pengadaan Air, Pengelolaan Sampah, Limbah dan Daur Ulang/Water supply, Sewerage, Waste",711000000000
+33,Industri,6,F,Konstruksi/Construction,122937000000000
+33,Industri,7,G,Perdagangan Besar dan Eceran; Reparasi Mobil dan Sepeda Motor/Wholesale and Retail Trade;,161417000000000
+33,Industri,8,H,Transportasi dan Pergudangan/Transportation and Storage,38028000000000
+33,Industri,9,I,Penyediaan Akomodasi dan Makan Minum/Accommodation and Food Service Activities,38019000000000
+33,Industri,10,J,Informasi dan Komunikasi/Information and Communication,39126000000000
+33,Jasa,11,K,Jasa Keuangan dan Asuransi/Financial and Insurance Activities,35219000000000
+33,Jasa,12,L,Real Estat/Real Estate Activities,19837000000000
+33,Jasa,13,"M,N",Jasa Perusahaan/Business Activities,4465000000000
+33,Jasa,14,O,"Administrasi Pemerintahan, Pertahanan dan Jaminan Sosial Wajib/Public Administration and",33086000000000
+33,Jasa,15,P,Jasa Pendidikan/Education,52022000000000
+33,Jasa,16,Q,Jasa Kesehatan dan Kegiatan Sosial/Human Health and Social Work Activities,10360000000000
+33,Jasa,17,"R,S,T,U",Jasa lainnya/Other Services Activities,18437000000000
+34,Pertanian,1,A,"Pertanian, Kehutanan, dan Perikanan/Agriculture, Forestry and Fishing",11933000000000
+34,Industri,2,B,Pertambangan dan Penggalian/Mining and Quarrying,616000000000
+34,Industri,3,C,Industri Pengolahan/Manufacturing,15637000000000
+34,Industri,4,D,Pengadaan Listrik dan Gas/Electricity and Gas,174000000000
+34,Industri,5,E,"Pengadaan Air, Pengelolaan Sampah, Limbah dan Daur Ulang/Water supply, Sewerage, Waste",121000000000
+34,Industri,6,F,Konstruksi/Construction,11304000000000
+34,Industri,7,G,Perdagangan Besar dan Eceran; Reparasi Mobil dan Sepeda Motor/Wholesale and Retail Trade;,10242000000000
+34,Industri,8,H,Transportasi dan Pergudangan/Transportation and Storage,6784000000000
+34,Industri,9,I,Penyediaan Akomodasi dan Makan Minum/Accommodation and Food Service Activities,12304000000000
+34,Industri,10,J,Informasi dan Komunikasi/Information and Communication,9790000000000
+34,Jasa,11,K,Jasa Keuangan dan Asuransi/Financial and Insurance Activities,4641000000000
+34,Jasa,12,L,Real Estat/Real Estate Activities,8383000000000
+34,Jasa,13,"M,N",Jasa Perusahaan/Business Activities,1208000000000
+34,Jasa,14,O,"Administrasi Pemerintahan, Pertahanan dan Jaminan Sosial Wajib/Public Administration and",10213000000000
+34,Jasa,15,P,Jasa Pendidikan/Education,9711000000000
+34,Jasa,16,Q,Jasa Kesehatan dan Kegiatan Sosial/Human Health and Social Work Activities,3004000000000
+34,Jasa,17,"R,S,T,U",Jasa lainnya/Other Services Activities,3109000000000
+35,Pertanian,1,A,"Pertanian, Kehutanan, dan Perikanan/Agriculture, Forestry and Fishing",258428000000000
+35,Industri,2,B,Pertambangan dan Penggalian/Mining and Quarrying,80846000000000
+35,Industri,3,C,Industri Pengolahan/Manufacturing,586259000000000
+35,Industri,4,D,Pengadaan Listrik dan Gas/Electricity and Gas,6675000000000
+35,Industri,5,E,"Pengadaan Air, Pengelolaan Sampah, Limbah dan Daur Ulang/Water supply, Sewerage, Waste",1853000000000
+35,Industri,6,F,Konstruksi/Construction,197699000000000
+35,Industri,7,G,Perdagangan Besar dan Eceran; Reparasi Mobil dan Sepeda Motor/Wholesale and Retail Trade;,367185000000000
+35,Industri,8,H,Transportasi dan Pergudangan/Transportation and Storage,69176000000000
+35,Industri,9,I,Penyediaan Akomodasi dan Makan Minum/Accommodation and Food Service Activities,116058000000000
+35,Industri,10,J,Informasi dan Komunikasi/Information and Communication,92929000000000
+35,Jasa,11,K,Jasa Keuangan dan Asuransi/Financial and Insurance Activities,55033000000000
+35,Jasa,12,L,Real Estat/Real Estate Activities,32080000000000
+35,Jasa,13,"M,N",Jasa Perusahaan/Business Activities,16256000000000
+35,Jasa,14,O,"Administrasi Pemerintahan, Pertahanan dan Jaminan Sosial Wajib/Public Administration and",45741000000000
+35,Jasa,15,P,Jasa Pendidikan/Education,52974000000000
+35,Jasa,16,Q,Jasa Kesehatan dan Kegiatan Sosial/Human Health and Social Work Activities,12612000000000
+35,Jasa,17,"R,S,T,U",Jasa lainnya/Other Services Activities,27395000000000
+36,Pertanian,1,A,"Pertanian, Kehutanan, dan Perikanan/Agriculture, Forestry and Fishing",33134000000000
+36,Industri,2,B,Pertambangan dan Penggalian/Mining and Quarrying,4146000000000
+36,Industri,3,C,Industri Pengolahan/Manufacturing,179960000000000
+36,Industri,4,D,Pengadaan Listrik dan Gas/Electricity and Gas,11971000000000
+36,Industri,5,E,"Pengadaan Air, Pengelolaan Sampah, Limbah dan Daur Ulang/Water supply, Sewerage, Waste",449000000000
+36,Industri,6,F,Konstruksi/Construction,58783000000000
+36,Industri,7,G,Perdagangan Besar dan Eceran; Reparasi Mobil dan Sepeda Motor/Wholesale and Retail Trade;,69588000000000
+36,Industri,8,H,Transportasi dan Pergudangan/Transportation and Storage,61323000000000
+36,Industri,9,I,Penyediaan Akomodasi dan Makan Minum/Accommodation and Food Service Activities,13556000000000
+36,Industri,10,J,Informasi dan Komunikasi/Information and Communication,20563000000000
+36,Jasa,11,K,Jasa Keuangan dan Asuransi/Financial and Insurance Activities,17027000000000
+36,Jasa,12,L,Real Estat/Real Estate Activities,41872000000000
+36,Jasa,13,"M,N",Jasa Perusahaan/Business Activities,6090000000000
+36,Jasa,14,O,"Administrasi Pemerintahan, Pertahanan dan Jaminan Sosial Wajib/Public Administration and",11449000000000
+36,Jasa,15,P,Jasa Pendidikan/Education,18785000000000
+36,Jasa,16,Q,Jasa Kesehatan dan Kegiatan Sosial/Human Health and Social Work Activities,6672000000000
+36,Jasa,17,"R,S,T,U",Jasa lainnya/Other Services Activities,9063000000000
+51,Pertanian,1,A,"Pertanian, Kehutanan, dan Perikanan/Agriculture, Forestry and Fishing",30902000000000
+51,Industri,2,B,Pertambangan dan Penggalian/Mining and Quarrying,2109000000000
+51,Industri,3,C,Industri Pengolahan/Manufacturing,13024000000000
+51,Industri,4,D,Pengadaan Listrik dan Gas/Electricity and Gas,518000000000
+51,Industri,5,E,"Pengadaan Air, Pengelolaan Sampah, Limbah dan Daur Ulang/Water supply, Sewerage, Waste",388000000000
+51,Industri,6,F,Konstruksi/Construction,19016000000000
+51,Industri,7,G,Perdagangan Besar dan Eceran; Reparasi Mobil dan Sepeda Motor/Wholesale and Retail Trade;,18543000000000
+51,Industri,8,H,Transportasi dan Pergudangan/Transportation and Storage,20360000000000
+51,Industri,9,I,Penyediaan Akomodasi dan Makan Minum/Accommodation and Food Service Activities,50241000000000
+51,Industri,10,J,Informasi dan Komunikasi/Information and Communication,11059000000000
+51,Jasa,11,K,Jasa Keuangan dan Asuransi/Financial and Insurance Activities,8563000000000
+51,Jasa,12,L,Real Estat/Real Estate Activities,8396000000000
+51,Jasa,13,"M,N",Jasa Perusahaan/Business Activities,2279000000000
+51,Jasa,14,O,"Administrasi Pemerintahan, Pertahanan dan Jaminan Sosial Wajib/Public Administration and",10928000000000
+51,Jasa,15,P,Jasa Pendidikan/Education,11055000000000
+51,Jasa,16,Q,Jasa Kesehatan dan Kegiatan Sosial/Human Health and Social Work Activities,4633000000000
+51,Jasa,17,"R,S,T,U",Jasa lainnya/Other Services Activities,3347000000000
+52,Pertanian,1,A,"Pertanian, Kehutanan, dan Perikanan/Agriculture, Forestry and Fishing",27230000000000
+52,Industri,2,B,Pertambangan dan Penggalian/Mining and Quarrying,24109000000000
+52,Industri,3,C,Industri Pengolahan/Manufacturing,4910000000000
+52,Industri,4,D,Pengadaan Listrik dan Gas/Electricity and Gas,91000000000
+52,Industri,5,E,"Pengadaan Air, Pengelolaan Sampah, Limbah dan Daur Ulang/Water supply, Sewerage, Waste",106000000000
+52,Industri,6,F,Konstruksi/Construction,10988000000000
+52,Industri,7,G,Perdagangan Besar dan Eceran; Reparasi Mobil dan Sepeda Motor/Wholesale and Retail Trade;,16381000000000
+52,Industri,8,H,Transportasi dan Pergudangan/Transportation and Storage,8918000000000
+52,Industri,9,I,Penyediaan Akomodasi dan Makan Minum/Accommodation and Food Service Activities,2827000000000
+52,Industri,10,J,Informasi dan Komunikasi/Information and Communication,2303000000000
+52,Jasa,11,K,Jasa Keuangan dan Asuransi/Financial and Insurance Activities,4257000000000
+52,Jasa,12,L,Real Estat/Real Estate Activities,3834000000000
+52,Jasa,13,"M,N",Jasa Perusahaan/Business Activities,211000000000
+52,Jasa,14,O,"Administrasi Pemerintahan, Pertahanan dan Jaminan Sosial Wajib/Public Administration and",7438000000000
+52,Jasa,15,P,Jasa Pendidikan/Education,5681000000000
+52,Jasa,16,Q,Jasa Kesehatan dan Kegiatan Sosial/Human Health and Social Work Activities,2184000000000
+52,Jasa,17,"R,S,T,U",Jasa lainnya/Other Services Activities,2460000000000
+53,Pertanian,1,A,"Pertanian, Kehutanan, dan Perikanan/Agriculture, Forestry and Fishing",26184000000000
+53,Industri,2,B,Pertambangan dan Penggalian/Mining and Quarrying,1186000000000
+53,Industri,3,C,Industri Pengolahan/Manufacturing,1147000000000
+53,Industri,4,D,Pengadaan Listrik dan Gas/Electricity and Gas,66000000000
+53,Industri,5,E,"Pengadaan Air, Pengelolaan Sampah, Limbah dan Daur Ulang/Water supply, Sewerage, Waste",50000000000
+53,Industri,6,F,Konstruksi/Construction,9787000000000
+53,Industri,7,G,Perdagangan Besar dan Eceran; Reparasi Mobil dan Sepeda Motor/Wholesale and Retail Trade;,10072000000000
+53,Industri,8,H,Transportasi dan Pergudangan/Transportation and Storage,4943000000000
+53,Industri,9,I,Penyediaan Akomodasi dan Makan Minum/Accommodation and Food Service Activities,676000000000
+53,Industri,10,J,Informasi dan Komunikasi/Information and Communication,6195000000000
+53,Jasa,11,K,Jasa Keuangan dan Asuransi/Financial and Insurance Activities,3726000000000
+53,Jasa,12,L,Real Estat/Real Estate Activities,2348000000000
+53,Jasa,13,"M,N",Jasa Perusahaan/Business Activities,279000000000
+53,Jasa,14,O,"Administrasi Pemerintahan, Pertahanan dan Jaminan Sosial Wajib/Public Administration and",11697000000000
+53,Jasa,15,P,Jasa Pendidikan/Education,8917000000000
+53,Jasa,16,Q,Jasa Kesehatan dan Kegiatan Sosial/Human Health and Social Work Activities,1941000000000
+53,Jasa,17,"R,S,T,U",Jasa lainnya/Other Services Activities,1945000000000
+61,Pertanian,1,A,"Pertanian, Kehutanan, dan Perikanan/Agriculture, Forestry and Fishing",36018000000000
+61,Industri,2,B,Pertambangan dan Penggalian/Mining and Quarrying,9583000000000
+61,Industri,3,C,Industri Pengolahan/Manufacturing,28769000000000
+61,Industri,4,D,Pengadaan Listrik dan Gas/Electricity and Gas,181000000000
+61,Industri,5,E,"Pengadaan Air, Pengelolaan Sampah, Limbah dan Daur Ulang/Water supply, Sewerage, Waste",205000000000
+61,Industri,6,F,Konstruksi/Construction,22713000000000
+61,Industri,7,G,Perdagangan Besar dan Eceran; Reparasi Mobil dan Sepeda Motor/Wholesale and Retail Trade;,25085000000000
+61,Industri,8,H,Transportasi dan Pergudangan/Transportation and Storage,8106000000000
+61,Industri,9,I,Penyediaan Akomodasi dan Makan Minum/Accommodation and Food Service Activities,4103000000000
+61,Industri,10,J,Informasi dan Komunikasi/Information and Communication,6615000000000
+61,Jasa,11,K,Jasa Keuangan dan Asuransi/Financial and Insurance Activities,6547000000000
+61,Jasa,12,L,Real Estat/Real Estate Activities,5108000000000
+61,Jasa,13,"M,N",Jasa Perusahaan/Business Activities,783000000000
+61,Jasa,14,O,"Administrasi Pemerintahan, Pertahanan dan Jaminan Sosial Wajib/Public Administration and",12312000000000
+61,Jasa,15,P,Jasa Pendidikan/Education,7123000000000
+61,Jasa,16,Q,Jasa Kesehatan dan Kegiatan Sosial/Human Health and Social Work Activities,2480000000000
+61,Jasa,17,"R,S,T,U",Jasa lainnya/Other Services Activities,1738000000000
+62,Pertanian,1,A,"Pertanian, Kehutanan, dan Perikanan/Agriculture, Forestry and Fishing",26121000000000
+62,Industri,2,B,Pertambangan dan Penggalian/Mining and Quarrying,14433000000000
+62,Industri,3,C,Industri Pengolahan/Manufacturing,21038000000000
+62,Industri,4,D,Pengadaan Listrik dan Gas/Electricity and Gas,98000000000
+62,Industri,5,E,"Pengadaan Air, Pengelolaan Sampah, Limbah dan Daur Ulang/Water supply, Sewerage, Waste",115000000000
+62,Industri,6,F,Konstruksi/Construction,12344000000000
+62,Industri,7,G,Perdagangan Besar dan Eceran; Reparasi Mobil dan Sepeda Motor/Wholesale and Retail Trade;,15419000000000
+62,Industri,8,H,Transportasi dan Pergudangan/Transportation and Storage,8854000000000
+62,Industri,9,I,Penyediaan Akomodasi dan Makan Minum/Accommodation and Food Service Activities,2408000000000
+62,Industri,10,J,Informasi dan Komunikasi/Information and Communication,1208000000000
+62,Jasa,11,K,Jasa Keuangan dan Asuransi/Financial and Insurance Activities,4134000000000
+62,Jasa,12,L,Real Estat/Real Estate Activities,2679000000000
+62,Jasa,13,"M,N",Jasa Perusahaan/Business Activities,48000000000
+62,Jasa,14,O,"Administrasi Pemerintahan, Pertahanan dan Jaminan Sosial Wajib/Public Administration and",7820000000000
+62,Jasa,15,P,Jasa Pendidikan/Education,5777000000000
+62,Jasa,16,Q,Jasa Kesehatan dan Kegiatan Sosial/Human Health and Social Work Activities,2386000000000
+62,Jasa,17,"R,S,T,U",Jasa lainnya/Other Services Activities,1293000000000
+63,Pertanian,1,A,"Pertanian, Kehutanan, dan Perikanan/Agriculture, Forestry and Fishing",23292000000000
+63,Industri,2,B,Pertambangan dan Penggalian/Mining and Quarrying,33118000000000
+63,Industri,3,C,Industri Pengolahan/Manufacturing,22959000000000
+63,Industri,4,D,Pengadaan Listrik dan Gas/Electricity and Gas,207000000000
+63,Industri,5,E,"Pengadaan Air, Pengelolaan Sampah, Limbah dan Daur Ulang/Water supply, Sewerage, Waste",645000000000
+63,Industri,6,F,Konstruksi/Construction,12777000000000
+63,Industri,7,G,Perdagangan Besar dan Eceran; Reparasi Mobil dan Sepeda Motor/Wholesale and Retail Trade;,15446000000000
+63,Industri,8,H,Transportasi dan Pergudangan/Transportation and Storage,10339000000000
+63,Industri,9,I,Penyediaan Akomodasi dan Makan Minum/Accommodation and Food Service Activities,3144000000000
+63,Industri,10,J,Informasi dan Komunikasi/Information and Communication,5535000000000
+63,Jasa,11,K,Jasa Keuangan dan Asuransi/Financial and Insurance Activities,5739000000000
+63,Jasa,12,L,Real Estat/Real Estate Activities,3525000000000
+63,Jasa,13,"M,N",Jasa Perusahaan/Business Activities,1053000000000
+63,Jasa,14,O,"Administrasi Pemerintahan, Pertahanan dan Jaminan Sosial Wajib/Public Administration and",9486000000000
+63,Jasa,15,P,Jasa Pendidikan/Education,7310000000000
+63,Jasa,16,Q,Jasa Kesehatan dan Kegiatan Sosial/Human Health and Social Work Activities,3079000000000
+63,Jasa,17,"R,S,T,U",Jasa lainnya/Other Services Activities,1941000000000
+64,Pertanian,1,A,"Pertanian, Kehutanan, dan Perikanan/Agriculture, Forestry and Fishing",47146000000000
+64,Industri,2,B,Pertambangan dan Penggalian/Mining and Quarrying,274362000000000
+64,Industri,3,C,Industri Pengolahan/Manufacturing,112989000000000
+64,Industri,4,D,Pengadaan Listrik dan Gas/Electricity and Gas,280000000000
+64,Industri,5,E,"Pengadaan Air, Pengelolaan Sampah, Limbah dan Daur Ulang/Water supply, Sewerage, Waste",275000000000
+64,Industri,6,F,Konstruksi/Construction,47802000000000
+64,Industri,7,G,Perdagangan Besar dan Eceran; Reparasi Mobil dan Sepeda Motor/Wholesale and Retail Trade;,31376000000000
+64,Industri,8,H,Transportasi dan Pergudangan/Transportation and Storage,21437000000000
+64,Industri,9,I,Penyediaan Akomodasi dan Makan Minum/Accommodation and Food Service Activities,5490000000000
+64,Industri,10,J,Informasi dan Komunikasi/Information and Communication,7440000000000
+64,Jasa,11,K,Jasa Keuangan dan Asuransi/Financial and Insurance Activities,9052000000000
+64,Jasa,12,L,Real Estat/Real Estate Activities,5218000000000
+64,Jasa,13,"M,N",Jasa Perusahaan/Business Activities,1215000000000
+64,Jasa,14,O,"Administrasi Pemerintahan, Pertahanan dan Jaminan Sosial Wajib/Public Administration and",12052000000000
+64,Jasa,15,P,Jasa Pendidikan/Education,9182000000000
+64,Jasa,16,Q,Jasa Kesehatan dan Kegiatan Sosial/Human Health and Social Work Activities,3506000000000
+64,Jasa,17,"R,S,T,U",Jasa lainnya/Other Services Activities,3680000000000
+65,Pertanian,1,A,"Pertanian, Kehutanan, dan Perikanan/Agriculture, Forestry and Fishing",12635000000000
+65,Industri,2,B,Pertambangan dan Penggalian/Mining and Quarrying,21195000000000
+65,Industri,3,C,Industri Pengolahan/Manufacturing,7728000000000
+65,Industri,4,D,Pengadaan Listrik dan Gas/Electricity and Gas,41000000000
+65,Industri,5,E,"Pengadaan Air, Pengelolaan Sampah, Limbah dan Daur Ulang/Water supply, Sewerage, Waste",49000000000
+65,Industri,6,F,Konstruksi/Construction,9641000000000
+65,Industri,7,G,Perdagangan Besar dan Eceran; Reparasi Mobil dan Sepeda Motor/Wholesale and Retail Trade;,8793000000000
+65,Industri,8,H,Transportasi dan Pergudangan/Transportation and Storage,5411000000000
+65,Industri,9,I,Penyediaan Akomodasi dan Makan Minum/Accommodation and Food Service Activities,1203000000000
+65,Industri,10,J,Informasi dan Komunikasi/Information and Communication,1753000000000
+65,Jasa,11,K,Jasa Keuangan dan Asuransi/Financial and Insurance Activities,884000000000
+65,Jasa,12,L,Real Estat/Real Estate Activities,609000000000
+65,Jasa,13,"M,N",Jasa Perusahaan/Business Activities,191000000000
+65,Jasa,14,O,"Administrasi Pemerintahan, Pertahanan dan Jaminan Sosial Wajib/Public Administration and",4044000000000
+65,Jasa,15,P,Jasa Pendidikan/Education,1922000000000
+65,Jasa,16,Q,Jasa Kesehatan dan Kegiatan Sosial/Human Health and Social Work Activities,796000000000
+65,Jasa,17,"R,S,T,U",Jasa lainnya/Other Services Activities,511000000000
+71,Pertanian,1,A,"Pertanian, Kehutanan, dan Perikanan/Agriculture, Forestry and Fishing",23704000000000
+71,Industri,2,B,Pertambangan dan Penggalian/Mining and Quarrying,5329000000000
+71,Industri,3,C,Industri Pengolahan/Manufacturing,10311000000000
+71,Industri,4,D,Pengadaan Listrik dan Gas/Electricity and Gas,105000000000
+71,Industri,5,E,"Pengadaan Air, Pengelolaan Sampah, Limbah dan Daur Ulang/Water supply, Sewerage, Waste",135000000000
+71,Industri,6,F,Konstruksi/Construction,12647000000000
+71,Industri,7,G,Perdagangan Besar dan Eceran; Reparasi Mobil dan Sepeda Motor/Wholesale and Retail Trade;,13367000000000
+71,Industri,8,H,Transportasi dan Pergudangan/Transportation and Storage,11975000000000
+71,Industri,9,I,Penyediaan Akomodasi dan Makan Minum/Accommodation and Food Service Activities,2446000000000
+71,Industri,10,J,Informasi dan Komunikasi/Information and Communication,4322000000000
+71,Jasa,11,K,Jasa Keuangan dan Asuransi/Financial and Insurance Activities,4421000000000
+71,Jasa,12,L,Real Estat/Real Estate Activities,3799000000000
+71,Jasa,13,"M,N",Jasa Perusahaan/Business Activities,102000000000
+71,Jasa,14,O,"Administrasi Pemerintahan, Pertahanan dan Jaminan Sosial Wajib/Public Administration and",8925000000000
+71,Jasa,15,P,Jasa Pendidikan/Education,3021000000000
+71,Jasa,16,Q,Jasa Kesehatan dan Kegiatan Sosial/Human Health and Social Work Activities,3835000000000
+71,Jasa,17,"R,S,T,U",Jasa lainnya/Other Services Activities,1720000000000
+72,Pertanian,1,A,"Pertanian, Kehutanan, dan Perikanan/Agriculture, Forestry and Fishing",38818000000000
+72,Industri,2,B,Pertambangan dan Penggalian/Mining and Quarrying,17229000000000
+72,Industri,3,C,Industri Pengolahan/Manufacturing,16571000000000
+72,Industri,4,D,Pengadaan Listrik dan Gas/Electricity and Gas,44000000000
+72,Industri,5,E,"Pengadaan Air, Pengelolaan Sampah, Limbah dan Daur Ulang/Water supply, Sewerage, Waste",177000000000
+72,Industri,6,F,Konstruksi/Construction,16785000000000
+72,Industri,7,G,Perdagangan Besar dan Eceran; Reparasi Mobil dan Sepeda Motor/Wholesale and Retail Trade;,11999000000000
+72,Industri,8,H,Transportasi dan Pergudangan/Transportation and Storage,5207000000000
+72,Industri,9,I,Penyediaan Akomodasi dan Makan Minum/Accommodation and Food Service Activities,719000000000
+72,Industri,10,J,Informasi dan Komunikasi/Information and Communication,4291000000000
+72,Jasa,11,K,Jasa Keuangan dan Asuransi/Financial and Insurance Activities,3161000000000
+72,Jasa,12,L,Real Estat/Real Estate Activities,2456000000000
+72,Jasa,13,"M,N",Jasa Perusahaan/Business Activities,335000000000
+72,Jasa,14,O,"Administrasi Pemerintahan, Pertahanan dan Jaminan Sosial Wajib/Public Administration and",8291000000000
+72,Jasa,15,P,Jasa Pendidikan/Education,5165000000000
+72,Jasa,16,Q,Jasa Kesehatan dan Kegiatan Sosial/Human Health and Social Work Activities,1819000000000
+72,Jasa,17,"R,S,T,U",Jasa lainnya/Other Services Activities,1177000000000
+73,Pertanian,1,A,"Pertanian, Kehutanan, dan Perikanan/Agriculture, Forestry and Fishing",95895000000000
+73,Industri,2,B,Pertambangan dan Penggalian/Mining and Quarrying,22475000000000
+73,Industri,3,C,Industri Pengolahan/Manufacturing,57449000000000
+73,Industri,4,D,Pengadaan Listrik dan Gas/Electricity and Gas,269000000000
+73,Industri,5,E,"Pengadaan Air, Pengelolaan Sampah, Limbah dan Daur Ulang/Water supply, Sewerage, Waste",431000000000
+73,Industri,6,F,Konstruksi/Construction,53386000000000
+73,Industri,7,G,Perdagangan Besar dan Eceran; Reparasi Mobil dan Sepeda Motor/Wholesale and Retail Trade;,58381000000000
+73,Industri,8,H,Transportasi dan Pergudangan/Transportation and Storage,17514000000000
+73,Industri,9,I,Penyediaan Akomodasi dan Makan Minum/Accommodation and Food Service Activities,5696000000000
+73,Industri,10,J,Informasi dan Komunikasi/Information and Communication,19933000000000
+73,Jasa,11,K,Jasa Keuangan dan Asuransi/Financial and Insurance Activities,15797000000000
+73,Jasa,12,L,Real Estat/Real Estate Activities,16151000000000
+73,Jasa,13,"M,N",Jasa Perusahaan/Business Activities,1845000000000
+73,Jasa,14,O,"Administrasi Pemerintahan, Pertahanan dan Jaminan Sosial Wajib/Public Administration and",18195000000000
+73,Jasa,15,P,Jasa Pendidikan/Education,21756000000000
+73,Jasa,16,Q,Jasa Kesehatan dan Kegiatan Sosial/Human Health and Social Work Activities,8189000000000
+73,Jasa,17,"R,S,T,U",Jasa lainnya/Other Services Activities,5568000000000
+74,Pertanian,1,A,"Pertanian, Kehutanan, dan Perikanan/Agriculture, Forestry and Fishing",25877000000000
+74,Industri,2,B,Pertambangan dan Penggalian/Mining and Quarrying,22227000000000
+74,Industri,3,C,Industri Pengolahan/Manufacturing,6592000000000
+74,Industri,4,D,Pengadaan Listrik dan Gas/Electricity and Gas,45000000000
+74,Industri,5,E,"Pengadaan Air, Pengelolaan Sampah, Limbah dan Daur Ulang/Water supply, Sewerage, Waste",195000000000
+74,Industri,6,F,Konstruksi/Construction,14346000000000
+74,Industri,7,G,Perdagangan Besar dan Eceran; Reparasi Mobil dan Sepeda Motor/Wholesale and Retail Trade;,13482000000000
+74,Industri,8,H,Transportasi dan Pergudangan/Transportation and Storage,4850000000000
+74,Industri,9,I,Penyediaan Akomodasi dan Makan Minum/Accommodation and Food Service Activities,641000000000
+74,Industri,10,J,Informasi dan Komunikasi/Information and Communication,1984000000000
+74,Jasa,11,K,Jasa Keuangan dan Asuransi/Financial and Insurance Activities,2630000000000
+74,Jasa,12,L,Real Estat/Real Estate Activities,1602000000000
+74,Jasa,13,"M,N",Jasa Perusahaan/Business Activities,219000000000
+74,Jasa,14,O,"Administrasi Pemerintahan, Pertahanan dan Jaminan Sosial Wajib/Public Administration and",5532000000000
+74,Jasa,15,P,Jasa Pendidikan/Education,4875000000000
+74,Jasa,16,Q,Jasa Kesehatan dan Kegiatan Sosial/Human Health and Social Work Activities,972000000000
+74,Jasa,17,"R,S,T,U",Jasa lainnya/Other Services Activities,1396000000000
+75,Pertanian,1,A,"Pertanian, Kehutanan, dan Perikanan/Agriculture, Forestry and Fishing",13130000000000
+75,Industri,2,B,Pertambangan dan Penggalian/Mining and Quarrying,400000000000
+75,Industri,3,C,Industri Pengolahan/Manufacturing,1413000000000
+75,Industri,4,D,Pengadaan Listrik dan Gas/Electricity and Gas,16000000000
+75,Industri,5,E,"Pengadaan Air, Pengelolaan Sampah, Limbah dan Daur Ulang/Water supply, Sewerage, Waste",20000000000
+75,Industri,6,F,Konstruksi/Construction,3979000000000
+75,Industri,7,G,Perdagangan Besar dan Eceran; Reparasi Mobil dan Sepeda Motor/Wholesale and Retail Trade;,3943000000000
+75,Industri,8,H,Transportasi dan Pergudangan/Transportation and Storage,2093000000000
+75,Industri,9,I,Penyediaan Akomodasi dan Makan Minum/Accommodation and Food Service Activities,816000000000
+75,Industri,10,J,Informasi dan Komunikasi/Information and Communication,922000000000
+75,Jasa,11,K,Jasa Keuangan dan Asuransi/Financial and Insurance Activities,1493000000000
+75,Jasa,12,L,Real Estat/Real Estate Activities,662000000000
+75,Jasa,13,"M,N",Jasa Perusahaan/Business Activities,33000000000
+75,Jasa,14,O,"Administrasi Pemerintahan, Pertahanan dan Jaminan Sosial Wajib/Public Administration and",2427000000000
+75,Jasa,15,P,Jasa Pendidikan/Education,1443000000000
+75,Jasa,16,Q,Jasa Kesehatan dan Kegiatan Sosial/Human Health and Social Work Activities,1217000000000
+75,Jasa,17,"R,S,T,U",Jasa lainnya/Other Services Activities,540000000000
+76,Pertanian,1,A,"Pertanian, Kehutanan, dan Perikanan/Agriculture, Forestry and Fishing",16455000000000
+76,Industri,2,B,Pertambangan dan Penggalian/Mining and Quarrying,896000000000
+76,Industri,3,C,Industri Pengolahan/Manufacturing,3992000000000
+76,Industri,4,D,Pengadaan Listrik dan Gas/Electricity and Gas,15000000000
+76,Industri,5,E,"Pengadaan Air, Pengelolaan Sampah, Limbah dan Daur Ulang/Water supply, Sewerage, Waste",58000000000
+76,Industri,6,F,Konstruksi/Construction,3236000000000
+76,Industri,7,G,Perdagangan Besar dan Eceran; Reparasi Mobil dan Sepeda Motor/Wholesale and Retail Trade;,4106000000000
+76,Industri,8,H,Transportasi dan Pergudangan/Transportation and Storage,556000000000
+76,Industri,9,I,Penyediaan Akomodasi dan Makan Minum/Accommodation and Food Service Activities,91000000000
+76,Industri,10,J,Informasi dan Komunikasi/Information and Communication,1569000000000
+76,Jasa,11,K,Jasa Keuangan dan Asuransi/Financial and Insurance Activities,880000000000
+76,Jasa,12,L,Real Estat/Real Estate Activities,1056000000000
+76,Jasa,13,"M,N",Jasa Perusahaan/Business Activities,27000000000
+76,Jasa,14,O,"Administrasi Pemerintahan, Pertahanan dan Jaminan Sosial Wajib/Public Administration and",3189000000000
+76,Jasa,15,P,Jasa Pendidikan/Education,1994000000000
+76,Jasa,16,Q,Jasa Kesehatan dan Kegiatan Sosial/Human Health and Social Work Activities,781000000000
+76,Jasa,17,"R,S,T,U",Jasa lainnya/Other Services Activities,716000000000
+81,Pertanian,1,A,"Pertanian, Kehutanan, dan Perikanan/Agriculture, Forestry and Fishing",9492000000000
+81,Industri,2,B,Pertambangan dan Penggalian/Mining and Quarrying,913000000000
+81,Industri,3,C,Industri Pengolahan/Manufacturing,2125000000000
+81,Industri,4,D,Pengadaan Listrik dan Gas/Electricity and Gas,38000000000
+81,Industri,5,E,"Pengadaan Air, Pengelolaan Sampah, Limbah dan Daur Ulang/Water supply, Sewerage, Waste",170000000000
+81,Industri,6,F,Konstruksi/Construction,3009000000000
+81,Industri,7,G,Perdagangan Besar dan Eceran; Reparasi Mobil dan Sepeda Motor/Wholesale and Retail Trade;,5422000000000
+81,Industri,8,H,Transportasi dan Pergudangan/Transportation and Storage,2080000000000
+81,Industri,9,I,Penyediaan Akomodasi dan Makan Minum/Accommodation and Food Service Activities,684000000000
+81,Industri,10,J,Informasi dan Komunikasi/Information and Communication,1224000000000
+81,Jasa,11,K,Jasa Keuangan dan Asuransi/Financial and Insurance Activities,1500000000000
+81,Jasa,12,L,Real Estat/Real Estate Activities,123000000000
+81,Jasa,13,"M,N",Jasa Perusahaan/Business Activities,397000000000
+81,Jasa,14,O,"Administrasi Pemerintahan, Pertahanan dan Jaminan Sosial Wajib/Public Administration and",8873000000000
+81,Jasa,15,P,Jasa Pendidikan/Education,2302000000000
+81,Jasa,16,Q,Jasa Kesehatan dan Kegiatan Sosial/Human Health and Social Work Activities,862000000000
+81,Jasa,17,"R,S,T,U",Jasa lainnya/Other Services Activities,666000000000
+82,Pertanian,1,A,"Pertanian, Kehutanan, dan Perikanan/Agriculture, Forestry and Fishing",7728000000000
+82,Industri,2,B,Pertambangan dan Penggalian/Mining and Quarrying,2963000000000
+82,Industri,3,C,Industri Pengolahan/Manufacturing,2076000000000
+82,Industri,4,D,Pengadaan Listrik dan Gas/Electricity and Gas,32000000000
+82,Industri,5,E,"Pengadaan Air, Pengelolaan Sampah, Limbah dan Daur Ulang/Water supply, Sewerage, Waste",26000000000
+82,Industri,6,F,Konstruksi/Construction,2138000000000
+82,Industri,7,G,Perdagangan Besar dan Eceran; Reparasi Mobil dan Sepeda Motor/Wholesale and Retail Trade;,5621000000000
+82,Industri,8,H,Transportasi dan Pergudangan/Transportation and Storage,2019000000000
+82,Industri,9,I,Penyediaan Akomodasi dan Makan Minum/Accommodation and Food Service Activities,149000000000
+82,Industri,10,J,Informasi dan Komunikasi/Information and Communication,1179000000000
+82,Jasa,11,K,Jasa Keuangan dan Asuransi/Financial and Insurance Activities,1011000000000
+82,Jasa,12,L,Real Estat/Real Estate Activities,37000000000
+82,Jasa,13,"M,N",Jasa Perusahaan/Business Activities,102000000000
+82,Jasa,14,O,"Administrasi Pemerintahan, Pertahanan dan Jaminan Sosial Wajib/Public Administration and",5103000000000
+82,Jasa,15,P,Jasa Pendidikan/Education,1178000000000
+82,Jasa,16,Q,Jasa Kesehatan dan Kegiatan Sosial/Human Health and Social Work Activities,663000000000
+82,Jasa,17,"R,S,T,U",Jasa lainnya/Other Services Activities,247000000000
+91,Pertanian,1,A,"Pertanian, Kehutanan, dan Perikanan/Agriculture, Forestry and Fishing",7850000000000
+91,Industri,2,B,Pertambangan dan Penggalian/Mining and Quarrying,12893000000000
+91,Industri,3,C,Industri Pengolahan/Manufacturing,18619000000000
+91,Industri,4,D,Pengadaan Listrik dan Gas/Electricity and Gas,31000000000
+91,Industri,5,E,"Pengadaan Air, Pengelolaan Sampah, Limbah dan Daur Ulang/Water supply, Sewerage, Waste",76000000000
+91,Industri,6,F,Konstruksi/Construction,11226000000000
+91,Industri,7,G,Perdagangan Besar dan Eceran; Reparasi Mobil dan Sepeda Motor/Wholesale and Retail Trade;,4945000000000
+91,Industri,8,H,Transportasi dan Pergudangan/Transportation and Storage,2125000000000
+91,Industri,9,I,Penyediaan Akomodasi dan Makan Minum/Accommodation and Food Service Activities,463000000000
+91,Industri,10,J,Informasi dan Komunikasi/Information and Communication,1177000000000
+91,Jasa,11,K,Jasa Keuangan dan Asuransi/Financial and Insurance Activities,1128000000000
+91,Jasa,12,L,Real Estat/Real Estate Activities,918000000000
+91,Jasa,13,"M,N",Jasa Perusahaan/Business Activities,84000000000
+91,Jasa,14,O,"Administrasi Pemerintahan, Pertahanan dan Jaminan Sosial Wajib/Public Administration and",7713000000000
+91,Jasa,15,P,Jasa Pendidikan/Education,1755000000000
+91,Jasa,16,Q,Jasa Kesehatan dan Kegiatan Sosial/Human Health and Social Work Activities,575000000000
+91,Jasa,17,"R,S,T,U",Jasa lainnya/Other Services Activities,211000000000
+94,Pertanian,1,A,"Pertanian, Kehutanan, dan Perikanan/Agriculture, Forestry and Fishing",22277000000000
+94,Industri,2,B,Pertambangan dan Penggalian/Mining and Quarrying,69119000000000
+94,Industri,3,C,Industri Pengolahan/Manufacturing,3972000000000
+94,Industri,4,D,Pengadaan Listrik dan Gas/Electricity and Gas,69000000000
+94,Industri,5,E,"Pengadaan Air, Pengelolaan Sampah, Limbah dan Daur Ulang/Water supply, Sewerage, Waste",100000000000
+94,Industri,6,F,Konstruksi/Construction,24756000000000
+94,Industri,7,G,Perdagangan Besar dan Eceran; Reparasi Mobil dan Sepeda Motor/Wholesale and Retail Trade;,17130000000000
+94,Industri,8,H,Transportasi dan Pergudangan/Transportation and Storage,10004000000000
+94,Industri,9,I,Penyediaan Akomodasi dan Makan Minum/Accommodation and Food Service Activities,1518000000000
+94,Industri,10,J,Informasi dan Komunikasi/Information and Communication,7046000000000
+94,Jasa,11,K,Jasa Keuangan dan Asuransi/Financial and Insurance Activities,2915000000000
+94,Jasa,12,L,Real Estat/Real Estate Activities,4978000000000
+94,Jasa,13,"M,N",Jasa Perusahaan/Business Activities,2155000000000
+94,Jasa,14,O,"Administrasi Pemerintahan, Pertahanan dan Jaminan Sosial Wajib/Public Administration and",17191000000000
+94,Jasa,15,P,Jasa Pendidikan/Education,3498000000000
+94,Jasa,16,Q,Jasa Kesehatan dan Kegiatan Sosial/Human Health and Social Work Activities,2948000000000
+94,Jasa,17,"R,S,T,U",Jasa lainnya/Other Services Activities,1940000000000
